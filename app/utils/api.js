@@ -2,7 +2,7 @@ var axios = require('axios');
 var React = require('react');
 
 var id = '12872d763c0bc573a8c67f8bfd8c030c';
-var url = 'http://api.openweathermap.org/data/2.5/';
+var url = 'https://api.openweathermap.org/data/2.5/';
 
 //don't use getWeather(), not wired up properly
 
